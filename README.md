@@ -20,8 +20,6 @@
 ### 👩‍💻 About Me
 - 📊 Interested in **ML modeling and data-driven insights through EDA**
 - 🏦 Focused on applying **data and machine learning to banking & financial use cases**
-- ☁️ Exploring **cloud-based ML systems on AWS**
-
 
 
 ---
