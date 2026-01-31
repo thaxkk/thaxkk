@@ -1,8 +1,28 @@
-## Hi there 👋 I'm Thanyaporn Rattanacharoentham
+<h1 align="center">Hi there 👋 I'm Thanyaporn Rattanacharoentham</h1>
 
-🎓 Computer Engineering student @ Chulalongkorn University  
-📊 Interested in **ML modeling and data-driven insights through EDA**  
-🏦 Focused on applying data and ML to **banking and financial use cases** 
+<h3 align="center">
+  Computer Engineering Student @ Chulalongkorn University
+</h3>
+
+<p align="center"><i>(Expected May 2027)</i></p>
+
+<p align="center">
+  <a href="https://linkedin.com/in/thanyaporn-rattanacharoentham">
+    <img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=flat&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="mailto:thanyaporn.kwk@gmail.com">
+    <img src="https://img.shields.io/badge/GMAIL-EA4335?style=flat&logo=gmail&logoColor=white"/>
+  </a>
+</p>
+
+---
+
+### 👩‍💻 About Me
+- 📊 Interested in **ML modeling and data-driven insights through EDA**
+- 🏦 Focused on applying **data and machine learning to banking & financial use cases**
+- ☁️ Exploring **cloud-based ML systems on AWS**
+
+
 
 ---
 
